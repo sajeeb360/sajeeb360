@@ -71,7 +71,7 @@
   <a href="https://facebook.com/in.sajeeb" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.youtube.com/" target="blank">
+  <a href="[https://www.youtube.com/](https://www.youtube.com/channel/UC2oldlJbQAMmDOqC7I75s0A)" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/sajeeb360" target="blank">
